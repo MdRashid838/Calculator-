@@ -1,0 +1,19 @@
+
+.first{
+    text-align: center;
+}
+.m-ar{
+    margin: auto;
+}
+.button{
+    padding: 20px;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
