@@ -24,3 +24,12 @@ Html, body{
     border-radius: 5px;
     font-size: 20px;
 }
+
+.eq{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius:  9px;
+    cursor: pointer;
+    width: 140px;
+}
